@@ -1,2 +1,0 @@
-# demo
-assignment-1
